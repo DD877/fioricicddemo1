@@ -4,7 +4,7 @@
     <Page id="page" title="{i18n>title}">
         <content>
         <VBox id="v1" class="sapUiSmallMargin">
-            <Title id="t1" text="FIORI CI/CD demo2" level="H1"></Title>        
+            <Title id="t1" text="FIORI CI/CD demo2 " level="H1"></Title>        
         </VBox>
         </content>
 
